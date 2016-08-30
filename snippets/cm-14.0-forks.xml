@@ -181,7 +181,7 @@
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" groups="pdk-cw-fs,pdk-fs" remote="github" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" groups="pdk" remote="github" />
+  <project path="hardware/libhardware" name="Rashed97/android_hardware_libhardware" groups="pdk" remote="github" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" remote="github" />
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" remote="github" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" groups="omap4" remote="github" />
@@ -233,7 +233,7 @@
   <project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="github" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" groups="pdk-fs" remote="github" />
   <project path="system/bt" name="CyanogenMod/android_system_bt" groups="pdk" remote="github" />
-  <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" remote="github" />
+  <project path="system/core" name="Rashed97/android_system_core" groups="pdk" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" remote="github" />
   <project path="system/keymaster" name="CyanogenMod/android_system_keymaster" groups="pdk" remote="github" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="github" />
